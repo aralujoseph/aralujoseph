@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aralujoseph
-- 👀 I’m interested in Financial analysis and algorithmic trading, Aurgumented Reality, and Machine Learning.
+- 👀 I’m interested in Financial analysis and algorithmic trading, Argumented Reality, and Machine Learning.
 - 🌱 I’m currently learning software engineering at ALX.
 - 💞️ I’m looking to collaborate on C,C#, python, and Java script projects.
 - 📫 How to reach me <aralujosephstudy@gmail.com>
